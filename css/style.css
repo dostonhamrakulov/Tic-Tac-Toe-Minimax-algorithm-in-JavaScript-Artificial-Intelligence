@@ -1,29 +1,12 @@
-
-h1{
-    text-align: center;
-    color: darkblue;
-}
 body{
     background-color: aqua;
     font-family: Helvetica;
     margin: 0;
 }
-h2, h3{
+h1, h2, h4, p{
     text-align: center;
-    color: darkblue;
 }
-div.container{
-  display: flex;
-  justify-content: center;
-}
-.container{
-  margin-left: 19%;
-  margin-right: 19%;
-  width: auto;
-  height: auto;
-  border: double 1px black;
-  padding: 1%;
-}
+
 #content {
   position: absolute;
   left: 0;
