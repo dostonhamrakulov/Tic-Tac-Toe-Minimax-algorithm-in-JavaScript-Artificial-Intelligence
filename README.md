@@ -31,3 +31,6 @@ Here, second movement you can see player and computer have already made movement
 
 Computer won the game and game is finished. After completing a game whether it is draw, or anyone wins, the game should be restart by pressing button "New Game":
 <p align="center"><img width="50%" height="50%" src="https://github.com/dostonhamrakulov/Tic-Tac-Toe-Minimax-algorithm-in-JavaScript-Artificial-Intelligence/blob/master/images/images_3.PNG" /></p>
+
+
+### Enjoy :)
