@@ -226,3 +226,4 @@ function ShowAverageTime() {
         showAverageTime = false;
     }
 }
+//Doston Hamrakulov Created for Artificial Intelligence course using Minimax Algorithm
